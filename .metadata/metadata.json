@@ -1,0 +1,14 @@
+{
+  "name": "Timeline Extended — Русский перевод",
+  "id": "76cf15a1-ac88-43b3-b0c3-557266dc5b70",
+  "version": "0.1.1-preview",
+  "supported_game_version": "1.15.0",
+  "short_description": "Русский перевод. Требует оригинальный мод.",
+  "tags": [
+    "Translation"
+  ],
+  "relationships": [],
+  "game_custom_data": {
+    "multiplayer_synchronized": false
+  }
+}
